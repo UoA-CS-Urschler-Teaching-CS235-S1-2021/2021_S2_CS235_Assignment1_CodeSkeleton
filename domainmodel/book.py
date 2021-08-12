@@ -34,3 +34,10 @@ class Book:
     
     def __repr__(self):
         return f"<Book {self.__book_title}, book id = {self.__book_id}>"
+    
+    def _eq__(self):
+
+
+    def __lt__(self): 
+    def __hash__(self): 
+    def add_author(author): 
